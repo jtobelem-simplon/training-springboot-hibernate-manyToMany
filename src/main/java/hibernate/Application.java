@@ -18,13 +18,13 @@ public class Application implements CommandLineRunner {
 	}
 
 	public void run(String... args) throws Exception {
-		mainService.delete();
-		mainService.create();
-		
-		mainService.specificQueries();
-		
-		mainService.update();
-		mainService.read();
+//		mainService.delete();
+//		mainService.create();
+//		
+//		mainService.specificQueries();
+//		
+//		mainService.update();
+//		mainService.read();
 	}
 
 }
